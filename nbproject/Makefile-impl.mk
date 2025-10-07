@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Fab test 1
+PROJECTNAME=Fab_test_1
 
 # Active Configuration
 DEFAULTCONF=Debug

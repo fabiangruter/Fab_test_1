@@ -1,0 +1,71 @@
+# =========================
+# NetBeans IDE Files
+# =========================
+nbproject/private/
+nbbuild/
+dist/
+build/
+
+# NetBeans project metadata
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+nbproject/Package-*.cfg
+nbproject/Package-*.mk
+
+# Ignore NetBeans local configuration files
+nbproject/private/
+nbproject/configurations.xml
+
+# =========================
+# Compiled Object Files
+# =========================
+*.o
+*.obj
+*.lo
+*.slo
+
+# =========================
+# Compiled Dynamic Libraries
+# =========================
+*.so
+*.dylib
+*.dll
+
+# =========================
+# Compiled Static Libraries
+# =========================
+*.a
+*.lib
+
+# =========================
+# Executables
+# =========================
+*.exe
+*.out
+*.app
+
+# =========================
+# Debug / Profiling
+# =========================
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+*.prof
+*.stackdump
+
+# =========================
+# Editor / OS Files
+# =========================
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs and Temporary Files
+# =========================
+*.log
+*.tmp
+*.bak
